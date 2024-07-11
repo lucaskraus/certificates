@@ -1,3 +1,3 @@
-# Certificates
+# Certifications and Certificates
 
-As certificações e certificados dos cursos e bootcamps concluídos ao longo da minha carreira.
+Certifications and certificates of courses and bootcamps completed throughout my career can be checked in this repository.
