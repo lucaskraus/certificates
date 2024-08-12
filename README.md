@@ -1,3 +1,3 @@
-# Certifications and Certificates
+# Courses and Certifications
 
-Certifications and course and bootcamp certificates completed throughout my career can be found in this repository
+Certifications and certificates from courses and bootcamps completed throughout my career can be found in this repository
